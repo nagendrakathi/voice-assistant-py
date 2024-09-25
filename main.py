@@ -28,7 +28,7 @@ def speak(audio):
 
 # Function to play music using pygame
 def play_music():
-    music_path = "C:\\Users\\ajith\\Downloads\\Believer(PagalWorld).mp3"  # Path to the music file
+    music_path = "<--# Path to the music file-->"
     pygame.mixer.music.load(music_path)  # Load the music file
     pygame.mixer.music.play()  # Play the music
 
