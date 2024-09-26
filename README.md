@@ -2,7 +2,7 @@
 
 ## Overview
 This mini project is a Python-based virtual voice assistant that can listen to voice commands, respond with actions, and even tell jokes or facts. It uses libraries like `pyttsx3` for text-to-speech, `speech_recognition` for recognizing speech, and `pygame` to play music. The assistant can perform tasks such as searching Wikipedia, opening web pages, telling the time, or playing music, making it a versatile and fun project.
-
+See features now 
 ## Features
 - **Voice Commands:** The assistant listens to voice input and recognizes commands using the Google Speech Recognition API.
 - **Text-to-Speech:** It speaks back responses using a female voice generated with `pyttsx3`.
